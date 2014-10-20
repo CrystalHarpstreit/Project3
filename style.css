@@ -1,0 +1,52 @@
+body {
+  background-color: navy;
+}
+
+.container {
+  position: relative;
+  left: 500px;
+  top: 100px;
+}
+
+.star {
+  width: 10px;
+  height: 10px;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+.first {
+  position: relative;
+  left: 35px;
+  top: 40px;
+}
+
+.second {
+  position: relative;
+  left: 50px;
+  top: 50px;
+}
+
+.third {
+  position: relative;
+  left: 60px;
+  top: 60px;
+}
+
+.fourth {
+  position: relative;
+  left: 47px;
+  top: 75px;
+}
+
+.fifth {
+  position: relative;
+  left: 84px;
+  top: 90px;
+}
+
+.sixth {
+  position: relative;
+  left: 100px;
+  top: 60px;
+}
